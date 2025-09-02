@@ -12,7 +12,7 @@ int main() {
     while (t--) {
         int n;
         cin >> n;
-
+        
         unordered_set<int> seen;
         bool hasDuplicate = false;
 
